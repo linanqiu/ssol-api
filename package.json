@@ -1,0 +1,28 @@
+{
+  "name": "ssol-api",
+  "version": "1.0.6",
+  "description": "API wrapper for the bloody SSOL",
+  "main": "ssol.js",
+  "dependencies": {
+    "cheerio": "*",
+    "tough-cookie": "0.12.0",
+    "request": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SSOL"
+  ],
+  "author": "linanqiu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linanqiu/ssol-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/linanqiu/ssol-api/issues"
+  },
+  "homepage": "https://github.com/linanqiu/ssol-api#readme"
+}
